@@ -18,6 +18,7 @@ imageCDN: # 图片 CDN 功能
   
 # 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
 iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
+  - //at.alicdn.com/t/font_3389793_wecv94vfgz.css #juejin logo
 
 search: 
   type: local # 可选engine（用搜索引擎搜索）、swiftype、或local（本地搜索）
@@ -65,6 +66,11 @@ social:
     - icon-github
     - rgb(176, 190, 197)
     - rgb(176, 190, 197, .15)
+  掘金:
+    - https://juejin.cn/user/2524134426549453
+    - icon-juejin-logo
+    - rgb(30, 128, 255)
+    - rgb(30, 128, 255, .15)
 
 # 自定义样式，启用后可在站点的source文件夹下新建custom.css自定义站点样式
 customstyle: false  
