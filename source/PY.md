@@ -3,7 +3,7 @@ title: 朋友
 layout: py
 ---
 
-
+{% meting "65800" "netease" "song" "autoplay" "mutex:true" "listmaxheight:340px" "preload:none" "theme:#ad7a86"%}
 
 ## 友情链接
 

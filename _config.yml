@@ -122,6 +122,10 @@ jsonContent:
     categories: false
     tags: false
 
+# hexo-tag-aplayer plugin
+aplayer:
+  meting: true
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
