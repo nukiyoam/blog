@@ -1,11 +1,11 @@
-avatar: https://p6-passport.byteacctimg.com/img/user-avatar/e0e7ac091132aa16f87526e4bdf38418~300x300.image # 网站 Logo
+avatar: https://cdn.jsdelivr.net/gh/nukiyoam/nukiyoam.github.io@latest/images/logo.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: https://cdn.jsdelivr.net/gh/nukiyoam/nukiyoam.github.io@latest/images/background/background.jpeg
   width: 1440
   height: 960
 favicon:
-  href: /favicon.ico # 网站图标
-  type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
+  href: https://cdn.jsdelivr.net/gh/nukiyoam/nukiyoam.github.io@latest/images/favicon.png # 网站图标
+  type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
   globalToc: true # 开启该功能会自动开启文章 TOC（文章目录） 功能
