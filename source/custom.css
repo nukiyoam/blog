@@ -1,0 +1,16 @@
+:root {
+    --color-primary: rgb(60, 70, 89) !important;
+    --color2: rgb(73, 148, 196) !important;
+    --color3: rgb(105, 142, 106) !important;
+    --color4: rgb(155, 142, 169) !important;
+    --color5: rgb(118, 85, 93) !important;
+    --color6: rgb(92, 79, 85) !important;
+    --color7: rgb(88, 82, 72) !important;
+    --color-primary-bg: rgba(60, 70, 89, 0.15) !important;
+    --color2-bg: rgba(73, 148, 196, 0.15 !important);
+    --color3-bg: rgba(105, 142, 106, 0.15) !important;
+    --color4-bg: rgba(155, 142, 169, 0.15) !important;
+    --color5-bg: rgba(118, 85, 93, 0.15) !important;
+    --color6-bg: rgba(92, 79, 85, 0.15) !important;
+    --color7-bg: rgba(88, 82, 72, 0.15) !important;
+}
