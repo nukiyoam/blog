@@ -38,7 +38,7 @@ tags:
 
 最容易想到的，可能就是在代码中根据用户选择的支付方式进行一系列的 `if else` 操作了把。
 
-``` java
+```java
 if (Objects.equals(paymentWay, "支付宝")) {
     支付宝支付处理逻辑...
 } else if (Objects.equals(paymentWay, "微信")) {
@@ -83,7 +83,7 @@ public class AliPayPayment implements Payment {
 
 微信支付：
 
-```java
+``` java
 public class WechatPayPayment implements Payment {
 
     @Override
