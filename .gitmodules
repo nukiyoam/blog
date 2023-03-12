@@ -1,0 +1,3 @@
+[submodule "themes/hugo-tania"]
+	path = themes/hugo-tania
+	url = git@github.com:nukiyoam/hugo-tania.git
