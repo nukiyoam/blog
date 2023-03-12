@@ -67,11 +67,11 @@ emitMetadata = 0
 lang = "zh-CN"
 
 [params.comments.giscus.repo]
-id = "R_kgDOJIeZIQ"
-name = "nukiyoam/blog-comments"
+id = "R_kgDOHTffnA"
+name = "nukiyoam/nukiyoam.github.io"
 
 [params.comments.giscus.category]
-id = "DIC_kwDOJIeZIc4CU0ND"
+id = "DIC_kwDOHTffnM4CU0Q_"
 name = "Announcements"
 
 
