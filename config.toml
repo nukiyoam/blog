@@ -1,5 +1,5 @@
 baseurl = "https://nukiyoam.github.io"
-languageCode = "zh-cn"
+languageCode = "zh-CN"
 paginate = 6
 theme = "hugo-tania"
 title = "Nukiyoam's Blog"
