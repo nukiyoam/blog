@@ -4,8 +4,6 @@ paginate = 6
 theme = "hugo-tania"
 title = "Nukiyoam's Blog"
 
-disqusShortname = "https-hugo-tania-netlify-app"
-
 [params]
 # Emoji will show before the blog title on site navbar.
 titleEmoji = "🧑‍💻"
@@ -80,6 +78,7 @@ name = "Announcements"
 [[menu.header]]
 name = "Articles"
 url = "/articles/"
+
 [[menu.footer]]
 name = "RSS"
 url = "/index.xml"
