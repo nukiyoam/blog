@@ -1,6 +1,6 @@
 {
     "origins": [
-      "https://nukiyoam.github.io",
+      "https://nukiyoam.github.io"
     ],
     "originsRegex": [
       "https://nukiyoam.github.io/*",

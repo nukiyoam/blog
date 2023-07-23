@@ -1,8 +1,10 @@
-baseurl = ""
+#baseurl = "https://nukiyoam.github.io/blog/"
 languageCode = "zh-CN"
 paginate = 6
 theme = "hugo-tania"
 title = "Nukiyoam's Blog"
+
+canonifyURLs = true
 
 [params]
 # Emoji will show before the blog title on site navbar.
