@@ -1,4 +1,4 @@
 {
-    "origins": ["https://nukiyoam.github.io"],
+    "originsRegex": ["https://nukiyoam.github.io/blog/*"],
     "defaultCommentOrder": "newest"
 }
